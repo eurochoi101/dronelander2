@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{00DBEDAA-620E-41AE-8D00-2F0C73208264}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander/DroneLander/Common/CoreConstants.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="DroneLander/DroneLander.Android/MainActivity.cs" Line="4" Column="30" />
-      <File FileName="DroneLander/DroneLander/Common/CoreConstants.cs" Line="9" Column="25" />
+      <File FileName="DroneLander/DroneLander.Android/MainActivity.cs" Line="23" Column="13" />
+      <File FileName="DroneLander/DroneLander/Common/CoreConstants.cs" Line="15" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />

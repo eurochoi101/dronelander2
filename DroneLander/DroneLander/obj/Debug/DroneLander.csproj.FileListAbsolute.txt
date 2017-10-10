@@ -7,7 +7,6 @@
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Core.xml
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Platform.pdb
-/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Platform.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.xml

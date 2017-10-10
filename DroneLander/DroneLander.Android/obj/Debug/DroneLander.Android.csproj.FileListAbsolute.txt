@@ -32,10 +32,14 @@
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/DroneLander.pdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/FormsViewGroup.pdb
+/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/FormsViewGroup.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Core.xml
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/DroneLander.Android.csprojResolveAssemblyReference.cache
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/DroneLander.Android.csproj.CoreCompileInputs.cache
