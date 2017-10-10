@@ -16,7 +16,7 @@ namespace DroneLander.Droid
     {
         protected override void OnCreate(Bundle bundle)
         {
-            MobileCenter.Start("b1987ef4-3630-4f23-b1d5-9096965bff05",
+            MobileCenter.Start("25fb626a-793f-4d52-ad50-069885f8a733",
                    typeof(Analytics), typeof(Crashes));
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
