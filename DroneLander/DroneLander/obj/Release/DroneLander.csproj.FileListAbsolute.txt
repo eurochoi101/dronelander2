@@ -1,0 +1,16 @@
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\DroneLander.dll
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\DroneLander.pdb
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.dll
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Platform.dll
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.dll
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.pdb
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Core.xml
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Platform.pdb
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\bin\Release\Xamarin.Forms.Xaml.xml
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.csprojResolveAssemblyReference.cache
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.csproj.CoreCompileInputs.cache
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.MainPage.xaml.g.cs
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.App.xaml.g.cs
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.dll
+C:\_work\MissionMars\labs\DroneLander\DroneLander\DroneLander\obj\Release\DroneLander.pdb
