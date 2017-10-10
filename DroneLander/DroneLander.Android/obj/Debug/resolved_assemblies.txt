@@ -29,11 +29,11 @@
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/Mono.Android.dll
-/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.Core.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.Xml.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.Runtime.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander.Android/obj/Debug/android/assets/System.Resources.ResourceManager.dll

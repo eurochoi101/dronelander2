@@ -10,7 +10,6 @@
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/obj/Debug/DroneLander.csprojResolveAssemblyReference.cache
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/obj/Debug/DroneLander.csproj.CoreCompileInputs.cache
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/obj/Debug/DroneLander.MainPage.xaml.g.cs
 /Users/josephstone/Downloads/DroneLander 2/DroneLander/DroneLander/obj/Debug/DroneLander.App.xaml.g.cs
